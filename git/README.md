@@ -28,3 +28,9 @@ git reset --hard upstream/main
 ```gitattributes
 git log --oneline origin/main..feature
 ```
+
+## Fetch & remove any remote-tracking references that no longer exist on the remote
+
+```gitattributes
+git fetch --prune
+```
