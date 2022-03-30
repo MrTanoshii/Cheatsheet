@@ -6,5 +6,5 @@ A collection of cheatsheets for various languages and tools
 
 <div align="center">
   <a href="../main/git/README.md"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="Git" alt="Git" width="64" height="64"></a>&nbsp;
-  <a href="../main/python/README.md"></a><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="64" height="64"></a>
+  <a href="../main/python/README.md"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="64" height="64"></a>
 </div>
