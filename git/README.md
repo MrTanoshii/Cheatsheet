@@ -2,6 +2,24 @@
   <a href="https://git-scm.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="Git" alt="Git" width="64" height="64"></a>
 </div>
 
+## Better commits
+
+| Type      | Description                                                              |
+| --------- | ------------------------------------------------------------------------ |
+| build:    | Affect the build system or external dependencies (npm, gulp)             |
+| chore:    | Change unrelated to fix/feature/src/tests (bumping dependencies)         |
+| ci:       | Change continuous integration files/scripts                              |
+| docs:     | Change documentation                                                     |
+| feat:     | Introduce a new feature                                                  |
+| fix:      | Patch a bug                                                              |
+| perf:     | Improve performance                                                      |
+| refactor: | Neither fixes a bug nor adds feature                                     |
+| revert:   | Revert a previous commit                                                 |
+| style:    | Do not affect meaning of code (formatting, whitespace, semi-colons, etc) |
+| test:     | Add/Correct tests                                                        |
+
+Further reading: https://www.conventionalcommits.org
+
 ## Set upstream
 
 ```gitattributes
