@@ -46,3 +46,11 @@ This requires [pipreqs](https://pypi.org/project/pipreqs/)
 ```shell
 pipreqs --force
 ```
+
+### List local packages
+
+```shell
+pip list --local
+pip list --local --outdated
+pip list --local --uptodate
+```
