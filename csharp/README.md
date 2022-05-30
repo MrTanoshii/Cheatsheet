@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://git-scm.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="64" height="64"></a>
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="64" height="64"></a>
 </div>
 
 ## Table of Contents
