@@ -17,6 +17,7 @@ Further reading: https://docs.blender.org/
 | Select View Angle              |              `Numpad `              |
 | Expand/Reduce Object Selection | `Object Selected + Ctrl + "+"/"-" ` |
 | Change Render Type             |                `Z `                 |
+| Add Object                     |             `Shift + A`             |
 
 ## Switch views
 
