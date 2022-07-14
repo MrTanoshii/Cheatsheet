@@ -5,7 +5,9 @@
 ## :book: Style Guide
 
 https://developer.mozilla.org/en-US/docs/MDN/Guidelines/Code_guidelines/JavaScript
+
 https://google.github.io/styleguide/jsguide.html
+
 https://javascript.info/coding-style
 
 Tools:
