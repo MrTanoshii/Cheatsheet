@@ -6,15 +6,17 @@
 
 Further reading: https://docs.github.com/
 
-## Keyboard Shortcuts
+## Keyboard & Mouse Shortcuts
 
-| Function                                                   | Keyboard Shortcut |
-| ---------------------------------------------------------- | ----------------- |
-| Opens a repository or pull request in the web-based editor | `.`               |
-| Focus the search bar                                       | `S` or `/`        |
-| Open blame view                                            | `B`               |
-| Activate file finder                                       | `T`               |
-| Goto line                                                  | `L`               |
+| Function                                                   | Shortcut              |
+| ---------------------------------------------------------- | --------------------- |
+| Opens a repository or pull request in the web-based editor | `.`                   |
+| Focus the search bar                                       | `S` or `/`            |
+| Open blame view                                            | `B`                   |
+| Activate file finder                                       | `T`                   |
+| Goto line                                                  | `L`                   |
+| Paste                                                      | `Middle Mouse Button` |
+| Delete word                                                | `Ctrl + Backspace`    |
 
 Further reading: https://docs.github.com/en/get-started/using-github/keyboard-shortcuts
 
