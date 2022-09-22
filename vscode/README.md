@@ -4,7 +4,7 @@
 
 ## :book: Documentation
 
-Further reading: https://code.visualstudio.com/docs/getstarted/keybindings
+Further reading: https://code.visualstudio.com/docs/
 
 ## Keybindings
 
@@ -14,3 +14,5 @@ Further reading: https://code.visualstudio.com/docs/getstarted/keybindings
 | Goto Symbol                                 | `Ctrl + Shift + O` |
 | Select all occurrences of current selection | `Ctrl + Shift + l` |
 | Show all Symbols                            | `Ctrl + T`         |
+
+Further reading: https://code.visualstudio.com/docs/getstarted/keybindings
