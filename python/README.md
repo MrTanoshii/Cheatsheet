@@ -7,9 +7,10 @@
 - [Style Guide](#book-style-guide)
 - [Virtual Environment & Requirements](#virtual-environment--requirements)
 
-## :book: Style Guide
+## :book: Documentation
 
-Further reading: https://peps.python.org/pep-0008/
+Style Guide: https://peps.python.org/pep-0008/
+Special Methods: https://docs.python.org/3/reference/datamodel.html#special-method-names
 
 ## Virtual Environment & Requirements
 
