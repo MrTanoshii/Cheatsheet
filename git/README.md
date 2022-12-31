@@ -39,6 +39,7 @@ git push --force-with-lease origin feature
 ```gitattributes
 git checkout feature
 git reset --hard upstream/main
+git push --force
 ```
 
 ## Display `feature` local branch commits not in `origin/main`
