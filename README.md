@@ -28,6 +28,14 @@ A collection of cheatsheets for various languages and tools
   </a>
 </div>
 
+### Operating Systems
+
+<div align="center">
+  <a href="../main/ubuntu/README.md">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="Ubuntu" alt="Ubuntu" width="64" height="64">
+  </a>
+</div>
+
 ### Tools
 
 <div align="center">
