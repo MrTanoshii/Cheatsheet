@@ -53,3 +53,11 @@ git log --oneline origin/main..feature
 ```gitattributes
 git fetch --prune
 ```
+
+## Fetch a branch from a forked repository
+
+```gitattributes
+git remote add <FORKED_USER> https://github.com/<FORKED_USER>/<REPO>.git
+git fetch <FORKED_USER>
+git checkout -b <BRANCH_NAME> <FORKED_USER>/<BRANCH_NAME>
+```
