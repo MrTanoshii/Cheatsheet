@@ -40,6 +40,14 @@ A collection of cheatsheets for various languages and tools
   </a>
 </div>
 
+### Shells
+
+<div align="center">
+  <a href="../main/bash/README.md">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="64" height="64">
+  </a>
+</div>
+
 ### Tools
 
 <div align="center">
