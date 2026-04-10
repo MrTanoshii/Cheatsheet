@@ -75,3 +75,11 @@ A collection of cheatsheets for various languages and tools
     <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="64" height="64">
   </a>
 </div>
+
+### Virtualization
+
+<div align="center">
+  <a href="../main/docker/README.md">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="64" height="64">
+  </a>
+</div>
