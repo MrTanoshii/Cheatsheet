@@ -66,6 +66,10 @@ A collection of cheatsheets for various languages and tools
   <a href="../main/unity/README.md">
     <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original-wordmark.svg" title="Unity" alt="Unity" width="64" height="64">
   </a>
+  &nbsp;
+  <a href="../main/wordpress/README.md">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="WordPress" alt="WordPress" width="64" height="64">
+  </a>
 </div>
 
 ### Databases
