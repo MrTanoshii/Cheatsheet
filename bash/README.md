@@ -19,7 +19,8 @@ mv FROM/PATH/*.txt TO/PATH/DEST_DIR/
 
 ```bash
 # With SSH and key
-rsync -avP -e 'ssh -i LOCAL/SSH/PATH/TO/KEY' root@REMOTE_IP:TO/PATH/FILE FROM/PATH/FILE
+rsync -avP -e 'ssh -i LOCAL/SSH/PATH/TO/KEY' root@REMOTE_IP:FROM/PATH/FILE TO/PATH/FILE
+rsync -avP -e 'ssh -i LOCAL/SSH/PATH/TO/KEY' FROM/PATH/FILE root@REMOTE_IP:TO/PATH/FILE
 ```
 
 `-a` stands for archive mode, which preserves symbolic links, file permissions, user & group ownerships, and timestamps.
